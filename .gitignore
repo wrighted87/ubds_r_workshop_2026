@@ -51,3 +51,6 @@ rsconnect/
 # Ignore all .png files & folder pictures
 *.png
 pictures/
+
+# Ignore all .DS_Store files
+**/.DStore
